@@ -20,7 +20,7 @@ function formatTime(seconds) {
 
     const playMusic=(track, pause=false)=>{
        // let audio= new Audio("/songs/" + track)
-       currentSong.src= `/${currfolder}/` + track;
+       currentSong.src= `${currfolder}/` + track;
        if(!pause){
         currentSong.play();
         play.src="img/pause.svg"
