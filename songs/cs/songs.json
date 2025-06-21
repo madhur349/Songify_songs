@@ -1,0 +1,31 @@
+{
+    "folder": "cs",
+    "title": "Copyright Songs",
+    "description": "Cover Songs for you",
+    "songs": [
+        {
+            "filename": "Beete Lamhe-KK.mp3",
+            "title": "Beete Lamhe",
+            "artist": "KK",
+            "duration": "00:00"
+        },
+        {
+            "filename": "Chaleya-Arijit Singh.mp3",
+            "title": "Chaleya",
+            "artist": "Arijit Singh",
+            "duration": "00:00"
+        },
+        {
+            "filename": "Kahani Suno-Kaifi Khalil.mp3",
+            "title": "Kahani Suno",
+            "artist": "Kaifi Khalil",
+            "duration": "00:00"
+        },
+        {
+            "filename": "Zara Sa-KK.mp3",
+            "title": "Zara Sa",
+            "artist": "KK",
+            "duration": "00:00"
+        }
+    ]
+}

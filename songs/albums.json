@@ -1,0 +1,16 @@
+{
+    "albums": [
+        {
+            "folder": "cs",
+            "title": "Copyright Songs",
+            "description": "Cover Songs for you",
+            "cover": "cover.jpg"
+        },
+        {
+            "folder": "ncs",
+            "title": "No Copyright Songs",
+            "description": "Songs for you",
+            "cover": "cover.jpg"
+        }
+    ]
+}

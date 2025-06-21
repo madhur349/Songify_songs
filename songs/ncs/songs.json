@@ -1,0 +1,25 @@
+{
+    "folder": "ncs",
+    "title": "No Copyright Songs",
+    "description": "Songs for you",
+    "songs": [
+        {
+            "filename": "Akhiyan Gulab-Mitraz .mp3",
+            "title": "Akhiyan Gulab",
+            "artist": "Mitraz",
+            "duration": "00:00"
+        },
+        {
+            "filename": "Halka Halka Sa-Arijit Singh.mp3",
+            "title": "Halka Halka Sa",
+            "artist": "Arijit Singh",
+            "duration": "00:00"
+        },
+        {
+            "filename": "Teri Baaton Mein Aisa Uljha Jiya-Raghav.mp3",
+            "title": "Teri Baaton Mein Aisa Uljha Jiya",
+            "artist": "Raghav",
+            "duration": "00:00"
+        }
+    ]
+}

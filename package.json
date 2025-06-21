@@ -1,0 +1,22 @@
+{
+    "name": "spotify-clone",
+    "version": "1.0.0",
+    "description": "A Spotify Clone web application",
+    "main": "index.html",
+    "scripts": {
+        "start": "http-server -o",
+        "dev": "live-server"
+    },
+    "keywords": [
+        "spotify",
+        "clone",
+        "music",
+        "player"
+    ],
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+        "http-server": "^14.1.1",
+        "live-server": "^1.2.2"
+    }
+}
